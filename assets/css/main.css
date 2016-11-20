@@ -186,7 +186,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #348cb2 url("images/bg.jpg") bottom left;
+		background: #348cb2 url("images/bglp.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -764,8 +764,8 @@
 		}
 
 		#bg {
-			background-size: 1500px auto;
-			width: 4500px;
+			background-size: 1980px auto;
+			width: 4000px;
 		} }
 
 /* Normal */
@@ -846,7 +846,7 @@
 		}
 
 		#bg {
-			background-size: 750px auto;
+			background-size: 100% auto;
 			width: 2250px;
 		} }
 
@@ -932,7 +932,7 @@
 		}
 
 		#bg {
-			background-size: 300px auto;
+			background-size: auto;
 			width: 900px;
 		}
 

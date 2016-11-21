@@ -175,7 +175,7 @@
 		-moz-animation: bg 60s linear infinite;
 		-webkit-animation: bg 60s linear infinite;
 		-ms-animation: bg 60s linear infinite;
-		animation: bg 60s linear infinite;
+		animation: bg 5s linear infinite;
 		-moz-backface-visibility: hidden;
 		-webkit-backface-visibility: hidden;
 		-ms-backface-visibility: hidden;
@@ -186,7 +186,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #348cb2 url("images/bglp.jpg") bottom left;
+		background: #222222 url("images/bglp.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -204,10 +204,10 @@
 		}
 
 		100% {
-			-moz-transform: translate3d(-2250px,0,0);
-			-webkit-transform: translate3d(-2250px,0,0);
-			-ms-transform: translate3d(-2250px,0,0);
-			transform: translate3d(-2250px,0,0);
+			-moz-transform: translate3d(-2700px,0,0);
+			-webkit-transform: translate3d(-2700px,0,0);
+			-ms-transform: translate3d(-2700px,0,0);
+			transform: translate3d(-2700px,0,0);
 		}
 	}
 
@@ -220,10 +220,10 @@
 		}
 
 		100% {
-			-moz-transform: translate3d(-2250px,0,0);
-			-webkit-transform: translate3d(-2250px,0,0);
-			-ms-transform: translate3d(-2250px,0,0);
-			transform: translate3d(-2250px,0,0);
+			-moz-transform: translate3d(-2700px,0,0);
+			-webkit-transform: translate3d(-2700px,0,0);
+			-ms-transform: translate3d(-2700px,0,0);
+			transform: translate3d(-2700px,0,0);
 		}
 	}
 
@@ -236,10 +236,10 @@
 		}
 
 		100% {
-			-moz-transform: translate3d(-2250px,0,0);
-			-webkit-transform: translate3d(-2250px,0,0);
-			-ms-transform: translate3d(-2250px,0,0);
-			transform: translate3d(-2250px,0,0);
+			-moz-transform: translate3d(-2700px,0,0);
+			-webkit-transform: translate3d(-2700px,0,0);
+			-ms-transform: translate3d(-2700px,0,0);
+			transform: translate3d(-2700px,0,0);
 		}
 	}
 
@@ -252,16 +252,16 @@
 		}
 
 		100% {
-			-moz-transform: translate3d(-2250px,0,0);
-			-webkit-transform: translate3d(-2250px,0,0);
-			-ms-transform: translate3d(-2250px,0,0);
-			transform: translate3d(-2250px,0,0);
+			-moz-transform: translate3d(-5400px,0,0);
+			-webkit-transform: translate3d(-5400px,0,0);
+			-ms-transform: translate3d(-5400px,0,0);
+			transform: translate3d(-5400px,0,0);
 		}
 	}
 
 	#bg {
-		background-size: 2250px auto;
-		width: 6750px;
+		background-size: 50% auto;
+		width: 10800px;
 	}
 
 /* Overlay */
@@ -756,16 +756,16 @@
 			}
 
 			100% {
-				-moz-transform: translate3d(-1500px,0,0);
-				-webkit-transform: translate3d(-1500px,0,0);
-				-ms-transform: translate3d(-1500px,0,0);
-				transform: translate3d(-1500px,0,0);
+				-moz-transform: translate3d(-2700px,0,0);
+				-webkit-transform: translate3d(-2700px,0,0);
+				-ms-transform: translate3d(-2700px,0,0);
+				transform: translate3d(-2700px,0,0);
 			}
 		}
 
 		#bg {
-			background-size: 1980px auto;
-			width: 4000px;
+			background-size: 50% auto;
+			width: 5400px;
 		} }
 
 /* Normal */
@@ -841,13 +841,13 @@
 				-moz-transform: translate3d(-750px,0,0);
 				-webkit-transform: translate3d(-750px,0,0);
 				-ms-transform: translate3d(-750px,0,0);
-				transform: translate3d(-750px,0,0);
+				transform: translate3d(-2700px,0,0);
 			}
 		}
 
 		#bg {
-			background-size: 100% auto;
-			width: 2250px;
+			background-size: 50% auto;
+			width: 5400px;
 		} }
 
 /* Mobile */
@@ -927,13 +927,13 @@
 				-moz-transform: translate3d(-300px,0,0);
 				-webkit-transform: translate3d(-300px,0,0);
 				-ms-transform: translate3d(-300px,0,0);
-				transform: translate3d(-300px,0,0);
+				transform: translate3d(-1350px,0,0);
 			}
 		}
 
 		#bg {
-			background-size: auto;
-			width: 900px;
+			background-size: 50% auto;
+			width: 2700px;
 		}
 
 	/* Header */
@@ -1025,13 +1025,13 @@
 				-moz-transform: translate3d(-412.5px,0,0);
 				-webkit-transform: translate3d(-412.5px,0,0);
 				-ms-transform: translate3d(-412.5px,0,0);
-				transform: translate3d(-412.5px,0,0);
+				transform: translate3d(-2700px,0,0);
 			}
 		}
 
 		#bg {
-			background-size: auto;
-			width: 1237.5px;
+			background-size: 50% auto;
+			width: 5400px;
 		}
 
 	/* Header */
